@@ -53,6 +53,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ukashazia/ukashazia/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ukashazia/ukashazia/output/snake.svg" alt="Snake animation" />
 
 ###
