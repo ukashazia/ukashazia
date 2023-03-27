@@ -1,4 +1,4 @@
-<h1 align="center">I am  Ukasha, a Frontend developer</h1>
+<h1 align="center">I am  Ukasha, Frontend developer</h1>
 
 ###
 
