@@ -3,9 +3,9 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ukashazia&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5" height="140" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=ukashazia&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&custom_title=My Stats" height="" alt=""  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ukashazia&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=radical&hide_border=true" height="" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ukashazia&theme=swift&hide_border=true&include_all_commits=true&count_private=true&custom_title=My%20stats" height="140" alt="streak graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ukashazia&theme=swift&hide_border=true" height="140" alt=""  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ukashazia&theme=swift&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="140" alt="languages graph"  />
 </div>
 
 ###
