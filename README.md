@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ukasha</h1>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ukashazia" alt="ukashazia" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ukasha_zia" target="blank"><img src="https://img.shields.io/twitter/follow/ukasha_zia?logo=twitter&style=for-the-badge" alt="ukasha_zia" /></a> </p>
 
 - 🌱 I’m currently learning **React**
 
