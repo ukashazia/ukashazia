@@ -6,6 +6,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ukashazia&theme=swift&hide_border=true&include_all_commits=true&count_private=true&custom_title=My%20stats" height="140" alt="streak graph"  />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ukashazia&theme=swift&hide_border=true" height="140" alt=""  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ukashazia&theme=swift&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="140" alt="languages graph"  />
+  <img height="140" src="https://github-readme-stats.vercel.app/api/wakatime?username=ukashazia" />
 </div>
 
 ###
