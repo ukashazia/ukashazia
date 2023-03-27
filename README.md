@@ -44,10 +44,10 @@
   <a href="https://www.linkedin.com/in/ukasha-zia-312ab6258" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://facebook/ukasha.zia.1238" target="_blank">
+  <a href="https://facebook.com/ukasha.zia.1238" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="facebook logo"  />
   </a>
-  <a href="https://twitter/Ukasha_Zia" target="_blank">
+  <a href="https://twitter.com/Ukasha_Zia" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
   </a>
   <a href="+923404350875" target="_blank">
