@@ -9,7 +9,7 @@
 </div>
 
 ###
-
+<br>
 <h2 align="left">Technologies I work with</h2>
 
 ###
@@ -28,6 +28,7 @@
 </div>
 
 ###
+<br>
 
 <h2 align="left">My socials</h2>
 
