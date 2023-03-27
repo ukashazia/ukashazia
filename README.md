@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ukashazia](https://github.com/ukashazia)
 
-- 📫 How to reach me **ukashazia41@gmail.com**
+- 📫 Reach me at **ukashazia41@gmail.com**
 
 <h3 align="left">My social deets:</h3>
 <p align="left">
