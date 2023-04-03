@@ -7,8 +7,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ukashazia&theme=swift&hide_border=true" height="170" alt=""  />
   </div>
   <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ukashazia&theme=swift&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="140" alt="languages graph"  />
-  <img height="140" src="https://github-readme-stats.vercel.app/api/wakatime?username=ukashazia" />
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ukashazia&layout=compact" height="140" alt="languages graph"  />
+  <img height="140" src="https://github-readme-stats.vercel.app/api/wakatime?username=ukashazia" /> -->
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ukashazia&layout=compact" /> -->
 </div>
 
 ###
