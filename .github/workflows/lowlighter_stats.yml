@@ -14,4 +14,8 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          filename: metrics.plugin.isocalendar.fullyear.svg
           token: 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
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
