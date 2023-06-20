@@ -1,5 +1,3 @@
-<h1 align="center">I'm  Ukasha, Web developer</h1>
-
 ###
 
 <div align="center">
