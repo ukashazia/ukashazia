@@ -24,7 +24,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="100" width="110" alt="bootstrap logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="100" width="110" alt="tailwindcss logo"  /> -->
 <!--   (https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev) -->
-  <img src="https://skillicons.dev/icons?i=css,html,js,react,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=css,html,js,tailwind,elixir,postgres,vscode,git,webpack,linux" />
 </div>
 
 ###
@@ -36,19 +36,20 @@
 
 <div align="left">
   <a href="ukashazia41@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
+    <img width="60" height="60" src="https://img.icons8.com/color/60/gmail-new.png" alt="gmail-new"/>
+   <!-- <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  /> -->
   </a>
   <a href="https://www.linkedin.com/in/ukasha-zia" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+    <img width="60" height="60" src="https://img.icons8.com/fluency/60/linkedin.png" alt="linkedin"/>
+    <!-- <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  /> -->
   </a>
   <a href="https://facebook.com/ukasha.zia.1238" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="facebook logo"  />
+    <img width="60" height="60" src="https://img.icons8.com/fluency/60/facebook-new.png" alt="facebook-new"/>
+    <!-- <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="facebook logo"  /> -->
   </a>
   <a href="https://twitter.com/Ukasha_Zia" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
-  </a>
-  <a href="+923404350875" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="whatsapp logo"  />
+    <img width="60" height="60" src="https://img.icons8.com/color/60/twitter--v1.png" alt="twitter--v1"/>
+   <!--  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  /> -->
   </a>
 </div>
 
