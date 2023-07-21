@@ -55,6 +55,6 @@
 ###
 
 <!-- <img src="https://raw.githubusercontent.com/ukashazia/ukashazia/output/snake.svg" alt="Snake animation" /> -->
-![Snake animation](https://github.com/ukashazia/ukashazia/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/ukashazia/ukashazia/blob/output/github-contribution-grid-snake.svg) -->
 
 ###
