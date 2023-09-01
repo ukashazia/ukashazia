@@ -31,7 +31,7 @@
 
 ###
 
-<!-- <img src="https://raw.githubusercontent.com/ukashazia/ukashazia/output/snake.svg" alt="Snake animation" /> -->
+<!-- <img src="https://raw.githubusercontent.com/ukashazia/ukashazia/output/snake.svg" alt="Snake animaton" /> -->
 <!-- ![Snake animation](https://github.com/ukashazia/ukashazia/blob/output/github-contribution-grid-snake.svg) -->
 
 ###
