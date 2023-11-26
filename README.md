@@ -23,7 +23,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="100" width="110" alt="bootstrap logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="100" width="110" alt="tailwindcss logo"  /> -->
 <!--   (https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev) -->
-  <img src="https://skillicons.dev/icons?i=css,html,js,tailwind,react,elixir,postgres,vscode,git,webpack,linux" />
+  <img src="https://skillicons.dev/icons?i=css,sass,html,js,tailwind,react,nextjs&perline=7" />
+  <img src="https://skillicons.dev/icons?i=vercel,elixir,postgres,vscode,git,github,linux&perline=7" />
 </div>
 
 ###
