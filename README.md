@@ -25,7 +25,7 @@
 <!--   (https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev) -->
   <img src="https://skillicons.dev/icons?i=css,sass,html,js,tailwind,react,nextjs&perline=7" />
   <img src="https://skillicons.dev/icons?i=vercel,elixir,postgres,vscode,git,github,linux&perline=7" />
-  <img src="https://skillicons.dev/icons?i=docker />
+  <img src="https://skillicons.dev/icons?i=docker" />
 </div>
 
 ###
