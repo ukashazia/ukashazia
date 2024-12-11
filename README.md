@@ -12,6 +12,8 @@
   <img src="https://skillicons.dev/icons?i=vercel,postgres,vscode,git,github,linux,bash&perline=7" />
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,lua&perline=3" />
   <hr />
+
+  <h3 align="left">Neovim and Arch btw</h3>
   <img src="https://skillicons.dev/icons?i=arch,neovim&perline=2" />
 </div>
 
